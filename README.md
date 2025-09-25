@@ -1,17 +1,12 @@
-# CS155 GitHub Pages Project  
+# GitHub Pages Project  
 
-This repository was created as part of my **CS155: Introduction to Version Control** course at Boise State University.  
-The goal of this project is to learn how to publish a simple website using **GitHub Pages**.  
+This repository was created as part of my **CS155 course assignment**.  
+Its purpose is to practice using **GitHub Pages** to host a simple website.  
 
-## About  
-- Built with **Markdown**  
-- Styled using the **Minima Jekyll theme**  
-- Hosted for free on **GitHub Pages**  
+The repository contains:  
+- `index.md` → The content of the website  
+- `_config.yml` → The configuration file for Jekyll and theme settings  
+- `README.md` → This file, which describes the project  
 
-## Live Site  
-👉 [View My GitHub Pages Site](https://robza.github.io/)  
-
-## Contents  
-- `index.md` → main landing page of the site  
-- `README.md` → this file, describing the repository  
-- `_config.yml` → configuration file for Jekyll (theme, settings) 
+The published site can be viewed here:  
+👉 [rob-gonzalez38.github.io](https://rob-gonzalez38.github.io/)  
