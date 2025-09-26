@@ -28,4 +28,4 @@ I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 clas
 Thanks for visiting!  
 
 > [!CAUTION]
-> ~~This website might be too cool for school.~~
+> ~~This website may be too cool for school.~~
