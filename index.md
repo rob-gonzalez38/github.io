@@ -7,13 +7,6 @@ I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 clas
 
 ---
 
-## About This Site  
-- Built with **Markdown**  
-- Styled with the **Minima Jekyll theme**  
-- Hosted free on **GitHub Pages**  
-
----
-
 ## Things I’ve Learned in **CS155**
 1. How to create and manage **branches**  
 2. How to use **merges** and handle different merge strategies  
