@@ -3,7 +3,7 @@
 Hello! My name is Rob, and this is my first GitHub Pages site.  
 I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 class.  
 
-![Rob on his red Honda Motorcycle](/images/rob_motorcycle.jpg)
+![Rob on his red Honda Motorcycle](/rob_motorcycle.jpg)
 
 ---
 
