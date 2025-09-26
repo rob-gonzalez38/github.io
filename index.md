@@ -1,7 +1,9 @@
-> # Welcome to My GitHub Page 👋 
+> # Welcome to My GitHub Page 
 
 Hello! My name is Rob, and this is my first GitHub Pages site.  
 I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 class.  
+
+![Rob on his red Honda Motorcycle]("E:\BSU\2. Fall 25-26\CS100\Mod3\webpage-starter-files\images\rob_motorcycle.jpg")
 
 ---
 
@@ -24,9 +26,12 @@ I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 clas
 ---
 
 ### Links
-- [My GitHub Profile](https://github.com/robza)  
-- [CS155 Course Repo](https://github.com/CS-155-Introduction-to-Version-Control)  
-
+- [My GitHub Profile](https://github.com/robza)   
+- [Another Very cool website](file:///E:/BSU/2.%20Fall%2025-26/CS100/Mod3/webpage-starter-files/index.html)
+  *I made this website for my CS100 class.*
 ---
 
-Thanks for visiting 🚀  
+Thanks for visiting!  
+
+> [!CAUTION]
+> ~~This website might be too cool for school.~~
