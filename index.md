@@ -27,7 +27,7 @@ I’m learning how to use Git, GitHub, and GitHub Pages as part of my CS155 clas
 
 ### Links
 - [My GitHub Profile](https://github.com/robza)   
-- [Another Very cool website](https://rob-gonzalez38.github.io/CS100-Website/)
+- [Another very cool website](https://rob-gonzalez38.github.io/CS100-Website/)
   *I made this website for my CS100 class.*
   
 ---
