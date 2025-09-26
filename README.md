@@ -9,4 +9,4 @@ The repository contains:
 - `README.md` → This file, which describes the project  
 
 The published site can be viewed here:  
-👉 [rob-gonzalez38.github.io](https://rob-gonzalez38.github.io/)  
+👉 [rob-gonzalez38.github.io](https://rob-gonzalez38.github.io/github.io/)  
